@@ -121,5 +121,14 @@ public void m1();
 }
 
 @FunctionalInterface  ->optional 
+------------------below invalid-----------
+@FunctionalInterface {
+public void m1(); 
+public void m2();
+}  
 
-
+------------below invalid--------------
+@FunctionalInterface {
+ interface Interface { 
+}
+---------------
