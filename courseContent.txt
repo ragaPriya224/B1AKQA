@@ -1,0 +1,16 @@
+1. Java 8 API: Lambda, Functional Programming, Collections, Streams, Date-Time API etc.
+Dates: September 1st, 2nd & 5th (3 Days)
+
+2. Database MySQL RDBMS (MariaDB) - Constraints, PK, FK, Joins, Indexes, Views, etc.
+Dates: September 6th & 7th (2 Days)
+
+3. Introduction to IntelliJ and Maven IntelliJ, Single Module Projects, Multi Module Projects etc.
+Dates: September 8th (1 Day)
+
+4. Spring Boot + Microservices: Spring Concepts, Controllers, Services, Repositories, Postman , etc.
+Dates: September 9th, 12th & 13th (3 Days)
+
+5. Web Development: HTTP Headers, Proxy, CORS, etc.
+Dates: September 14th (1 Day)
+
+Total: 10 Days.
