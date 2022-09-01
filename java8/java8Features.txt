@@ -7,3 +7,21 @@ python, R, scala
 100 lines of java -> 
 
 Less number of code -> Functional programming
+
+
+ 					 
+1. lambda expression
+2. functional interface
+3. default/static methods
+4. predefined  functional interfaces
+     predicate
+     consumer
+     supplier
+     function
+5.Double colon operator (::)
+     for method reference purpose
+     for constructor reference. 
+6. streams, parallel streams
+7. optional classes ( to avoid null pointer exce)
+8. date time api ( util.date or sql.date)
+
