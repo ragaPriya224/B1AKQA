@@ -1,0 +1,9 @@
+1. write a logic to print numbers from 1 to 50 
+2. write a logic to print only the unique data(i.e., remove duplicates )
+  List<String> names = Arrays.asList("Sam", "Peter","ballon","Sam");
+3.have a list of string with some datas and try to print the count of the datas having length greater than 3 
+
+4. write a logic to convert all the datas in a collection to uppercase 
+
+5. create a interface
+6. create a class 
