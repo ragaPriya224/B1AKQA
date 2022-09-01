@@ -1,0 +1,9 @@
+java 8 feature -> 2014
+latest 18 version 
+
+
+python, R, scala 
+10 lines of code ->
+100 lines of java -> 
+
+Less number of code -> Functional programming
