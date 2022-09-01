@@ -171,4 +171,4 @@ if u want to invoke lambda expression, then compulsory we need FI
 In java8, interfaces can have default and static methods :) 
 Functional interface -> single abstract method , 
                         can have default and static methods 
-
+static method -> can't be overriden 
