@@ -165,4 +165,6 @@ interface A {
  public void methodTwo();
  }
 
+------
+if u want to invoke lambda expression, then compulsory we need FI
 
