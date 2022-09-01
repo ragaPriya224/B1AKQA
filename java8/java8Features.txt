@@ -110,3 +110,16 @@ basics about abstract class
 interface:
 -> all methods are abstract methods 
 
+--------------------------------------------
+FUNCTIONAL INTERFACES:
+
+-> contains sam(Single abstract method )
+
+
+public interface Mobile{
+public void m1();
+}
+
+@FunctionalInterface  ->optional 
+
+
