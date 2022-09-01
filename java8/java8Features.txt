@@ -71,3 +71,30 @@ System.out.println(a*a);
 (int a) -> System.out.println(a*a);
 (a) -> System.out.println(a*a);
 ------------------------------
+
+EG: 2
+
+ public void m1(int a, int b){
+ sysout(a+b);
+ }
+   ( a, b) -> sysout(a+b); //solution
+ 
+ 
+ EG 3:
+ public int squareIt(int n){
+ return n*n;
+ }
+
+    (n) ->  n*n;
+ 
+ EG: 4
+ public int  m1(String s){
+ return s.length()
+ }
+ 
+    ( s) -> { s.length() };
+ EG: 5
+ public void printName(String name){
+System.out.println(name);
+}
+(name)-> name;
