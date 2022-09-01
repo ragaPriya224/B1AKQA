@@ -168,3 +168,6 @@ interface A {
 ------
 if u want to invoke lambda expression, then compulsory we need FI
 
+In java8, interfaces can have default and static methods :) 
+
+
