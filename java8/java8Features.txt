@@ -36,3 +36,25 @@ Less number of code -> Functional programming
    anonymous function
  -> no name/ nameless
  -> without r type, without modifier, without name -> 
+ 
+ 
+ public void printSomething(){
+ System.out.println("Hello");
+ }
+
+
+no return type, no modifier, no method name 
+
+
+reduction in lambda expression:
+
+  ()-> {System.out.println("Hello");}
+
+ ()-> System.out.println("Hello");
+
+---------------------------------
+public void square(int a){
+System.out.println(a*a);
+}
+
+
