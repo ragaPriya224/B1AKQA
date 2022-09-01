@@ -98,3 +98,15 @@ EG: 2
 System.out.println(name);
 }
 (name)-> name;
+
+
+
+
+
+
+basics about abstract class
+-> can have both abstract and non abstract methods
+
+interface:
+-> all methods are abstract methods 
+
