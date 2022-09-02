@@ -13,3 +13,20 @@ https://docs.oracle.com/javase/8/docs/api/overview-summary.html
  
  2. 2.PREDICATE -> single argument as input, return BOOLEAN 
  BIPREDICATE -> TWO argument as input ,  return BOOLEAN 
+
+
+--------------TASKS----------------------
+
+consumer:
+1. try consumer with integer input and do some operations
+2. try consumer with string input and do some operations
+3. try andThen method in consumer
+biconsumer:
+4. repeat the above 3 exercises for biconsumer as well
+
+
+PREDICATE:
+
+ 1 Write a predicate to check the length of given string is greater than 3 or not.
+2. try exploring, and or, test methods in predicate 
+3. try exploring bipredicate as well 
