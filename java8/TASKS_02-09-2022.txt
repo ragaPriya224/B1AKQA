@@ -1,0 +1,17 @@
+1.To form a male basket ball team, find the person greater than 50.
+(try using bipredicate for this.)
+
+ 
+
+2.   get salary and the hobbies and hobbies must be in upper case(use biconsumer)
+
+ 
+
+STREAM CONCEPTS
+Have a list of string for cities like chennai, mumbai, bangalore , delhi ,chicago
+
+ 
+
+3.  print the cities that contains "ai"
+4 append  the word "metro" to all the cities 
+5 sort the cities
