@@ -114,6 +114,10 @@ interface:
 FUNCTIONAL INTERFACES:
 
 -> contains sam(Single abstract method )
+1.Functional Interface is a interface which contains only one abstract method
+2.Can contain default and static methods
+3. @Functional Interface annotation is optional.
+4. Lambda Expression used to represent instance of functional interface
 
 
 public interface Mobile{
@@ -172,3 +176,8 @@ In java8, interfaces can have default and static methods :)
 Functional interface -> single abstract method , 
                         can have default and static methods 
 static method -> can't be overriden 
+        Interface static methods by-default not available to the implementation classes hence by using 
+implementation class reference we can’t call interface static
+      As interface static methods by default not available to the implementation class,overriding concept is 
+not applicable.Based on our requirement we can define exactly same method in the implementation class,it’s valid 
+but not overriding
