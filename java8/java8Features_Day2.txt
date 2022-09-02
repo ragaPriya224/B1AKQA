@@ -3,3 +3,9 @@ PILLARS OF FUNCTIONAL INTERFACE:
 
 https://docs.oracle.com/javase/8/docs/api/overview-summary.html
 
+1.CONSUMER -> single argument as input , not return anything
+2.PREDICATE -> single argument as input, return BOOLEAN 
+3. FUNCTION -> one argument as input, another as output,
+4. SUPPLIER -> NO argument as input, return bulk of data
+
+
