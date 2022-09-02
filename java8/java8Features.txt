@@ -114,6 +114,10 @@ interface:
 FUNCTIONAL INTERFACES:
 
 -> contains sam(Single abstract method )
+1.Functional Interface is a interface which contains only one abstract method
+2.Can contain default and static methods
+3. @Functional Interface annotation is optional.
+4. Lambda Expression used to represent instance of functional interface
 
 
 public interface Mobile{
