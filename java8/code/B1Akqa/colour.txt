@@ -1,0 +1,6 @@
+blue
+orange
+pinkish
+yellowish
+white
+black
