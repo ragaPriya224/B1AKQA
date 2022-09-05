@@ -14,6 +14,13 @@ https://docs.oracle.com/javase/8/docs/api/overview-summary.html
  2. 2.PREDICATE -> single argument as input, return BOOLEAN 
  BIPREDICATE -> TWO argument as input ,  return BOOLEAN 
 
+STREAMS:
+
+INTERMEDIATE OPERATION-> OPTIONAL , CAN HAVE 0, OR 1 OR MORE THAN 1 
+TERMINAL OPERATION -> ONLY ONE TERMINAL OPERATION 
+
+FILTER FIRST, SORT THEN -> GOOD PRACTICE 
+
 
 --------------TASKS----------------------
 
@@ -30,3 +37,4 @@ PREDICATE:
  1 Write a predicate to check the length of given string is greater than 3 or not.
 2. try exploring, and or, test methods in predicate 
 3. try exploring bipredicate as well 
+------------------------------------------
