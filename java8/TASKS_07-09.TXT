@@ -19,7 +19,7 @@ HAVE SOME DUMMY DATAS AND
 1.Given a list of integers, find the total number of elements present in the list using Stream functions?
 
 2.Given the list of integers, find the first element of the list using Stream functions?
-3.convert the below data to lowercase and print each data
+3.convert the below data to uppercase and print each data
  List<String> names = Arrays.asList("aa", "bb", "cc", "dd"); 
 HINT-> USE MAP,  METHOD REFERENCES TOO 
 
