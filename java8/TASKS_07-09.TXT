@@ -1,0 +1,9 @@
+
+Take a data that contains food, 
+and try to do the following operations:
+
+1. findAny
+2. findfirst
+3. anymatch
+4. allmatch
+5.nonematch 
