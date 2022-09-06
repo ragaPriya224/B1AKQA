@@ -8,7 +8,7 @@ public class OptionalsDemo {
 		//initializing an array of size 10 
 		String[] words = new String[10];
 		
-		Optional<String> checkNull = Optional.ofNullable(words[5]);
+		Optional<String> checkNull = Optional.ofNullable(words[2]);
 		
 		//if a value is present or not 
 		if(checkNull.isPresent()) {
@@ -20,3 +20,7 @@ public class OptionalsDemo {
 	}
 
 }
+
+
+
+
