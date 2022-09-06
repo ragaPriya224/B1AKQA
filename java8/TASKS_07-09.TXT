@@ -1,0 +1,15 @@
+
+1. Take a data that contains food, 
+and try to do the following operations:
+
+1. findAny
+2. findfirst
+3. anymatch
+4. allmatch
+5.nonematch 
+
+
+
+2. TAKE A MAP THAT CONTAINS THE FOOD ID AND FOODNAME, 
+HAVE SOME DUMMY DATAS AND 
+1. TRY TO USE PUTIFABSENT METHOD 
