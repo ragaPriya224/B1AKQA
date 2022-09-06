@@ -1,4 +1,4 @@
-package java8.day4;
+package java8.day4.MethodReference;
 
 import java.util.function.Function;
 

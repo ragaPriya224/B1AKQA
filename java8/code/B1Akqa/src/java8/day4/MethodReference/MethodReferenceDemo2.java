@@ -1,9 +1,9 @@
-package java8.day4;
+package java8.day4.MethodReference;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class MethodReferenceDemo {
+public class MethodReferenceDemo2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
