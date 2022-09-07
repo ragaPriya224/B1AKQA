@@ -48,3 +48,11 @@ Single valued attribute
 An attribute, which has only single atomic valuesExample: Age,  DOB, Sex. These attribute values are single and atomic•
 Multi-valued attribute
 An Attribute may have multiple valuesExample: Attribute Degree can have values ‘B.Tech’  and ‘M.Tech’, attribute hobby can have values ‘playing cricket’ and ‘watching cricket’
+
+
+---------------------------------
+mapping
+
+one to one
+one to many 
+many to many 
