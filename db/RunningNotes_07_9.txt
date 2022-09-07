@@ -60,5 +60,5 @@ many to many
 
 ----------------------
 
-ER diagram 
+ER diagram  -> rep/ symbol for each -> like pkey, table, columns, multivalued, weak, etc 
 UML diagram 
