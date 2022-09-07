@@ -1,0 +1,6 @@
+db, dbms, types,  ex, rdbms 
+keys -> pkey, foreign key 
+foreign key ->
+   delete child first, and then  parent 
+   
+   on delete cascade 
