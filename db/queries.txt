@@ -1,0 +1,96 @@
+
+show databases;
+
+create database training_ak;
+
+drop database training_ak;
+
+
+use training; 
+
+CREATE TABLE training.players  ( id INT NOT NULL, 
+  name VARCHAR(100) NOT NULL,  
+  sports VARCHAR(50) );
+  
+  CREATE TABLE student  ( id INT NOT NULL, 
+  name VARCHAR(100) NOT NULL,  
+  degree VARCHAR(20) );
+desc student;
+
+show tables;
+
+alter table student ADD address VARCHAR(100);
+alter table student ADD location VARCHAR(100),
+		ADD hobbies VARCHAR(100),ADD phone int;
+alter table student drop hobbies;
+
+
+ALTER TABLE student ADD PRIMARY KEY (id);
+
+show tables;
+drop table players;
+
+-- truncate 
+
+-- unique constraint
+CREATE TABLE employees(
+employee_id INT(6),
+last_name VARCHAR(25) NOT NULL,
+email VARCHAR(25),
+hire_date DATE NOT NULL,
+CONSTRAINT emp_email_uk UNIQUE(email)
+);
+
+create table gadget_types(
+    type_id int ,
+    name varchar(100) not null,
+    primary key(type_id)
+);
+
+
+create table gadgets(
+    gadget_id int ,
+    gadget_name varchar(100) not null,
+    type_id int,
+    primary key(gadget_id),
+    constraint type_id_fk
+    foreign key(type_id) 
+        references gadget_types(type_id)
+);
+
+create table classes(
+    class_id int ,
+    class_name varchar(255) not null,
+    student_count int check(student_count >0),
+    primary key(class_id)
+);
+-- #dml
+
+
+CREATE TABLE training.players  ( id INT NOT NULL, 
+  name VARCHAR(100) NOT NULL,  
+  sports VARCHAR(50) );
+  
+  insert into players 
+  values(1,'user1','cricket');
+  
+    
+  insert into players values(3,'user44','basketball');
+    insert into players(id,name) values(44,'user1231');
+  insert into players values(32,'tester','badmiton');
+  insert into players values(13,'deve','volleyball');
+
+  select * from players;
+  
+  
+  delete from players where id = 3;
+  
+  update players
+set sports = 'soccer'
+where id = 3;
+
+truncate table players;
+
+select id, sports from players where sports = 'cricket';
+
+select * from players where sports like 'ba%';
