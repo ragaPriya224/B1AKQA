@@ -5,3 +5,23 @@ foreign key ->
    
    on delete cascade 
 https://www.youtube.com/watch?v=JkwbhFUftSc
+
+
+super set of candidate key i.e., Candidate key + non key attribute
+
+
+Entities 
+▪Entities are specific objects or things that are represented in the database.Example: The Student , the Book
+
+types: 
+
+Types of Entities
+
+Strong/Regular Entity
+
+▪It can exist independently of other types of entities▪
+It has its own unique identifierExample: The Student Entity can exist independent of any other entitles
+
+Weak Entity
+▪It is dependent on a strong entity (identifying owner)...cannot exist on its own
+▪It does not have a unique identifier (only a partial identifier)Example:Nominee Entity cannot exist independent of Policy-Holder Entity
