@@ -40,3 +40,11 @@ These attributes cannot be divided into subcomponents
 Attribute may be composed of several components
 Example: Address, Name.  
 Address attributes can be composted of door no., street, city, state, whereas Name can compose of First Name, Last Name
+
+
+Types of attributes        
+
+Single valued attribute
+An attribute, which has only single atomic valuesExample: Age,  DOB, Sex. These attribute values are single and atomic•
+Multi-valued attribute
+An Attribute may have multiple valuesExample: Attribute Degree can have values ‘B.Tech’  and ‘M.Tech’, attribute hobby can have values ‘playing cricket’ and ‘watching cricket’
