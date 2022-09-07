@@ -6,6 +6,10 @@ types dbms? eg for each
 rdbms? eg:
 keys? types?
 entities? types:?Strong/Regular Entity , weakentity 
+ATTRIBUTES? TYPES?single , multivalue 
+relationships 
+er diagrams, uml diagrams 
+normalization 
 
 
 
