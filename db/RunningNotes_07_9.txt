@@ -25,3 +25,18 @@ It has its own unique identifierExample: The Student Entity can exist independen
 Weak Entity
 ▪It is dependent on a strong entity (identifying owner)...cannot exist on its own
 ▪It does not have a unique identifier (only a partial identifier)Example:Nominee Entity cannot exist independent of Policy-Holder Entity
+
+
+Types of attributes
+•Simple Vs Composite
+•Single valued Vs Multi-valued
+•Simple attribute
+-----------------
+eAn attribute, which cannot be sub-divided further components Example: Age,  Sex.
+These attributes cannot be divided into subcomponents 
+
+•Composite attribute
+---------------------
+Attribute may be composed of several components
+Example: Address, Name.  
+Address attributes can be composted of door no., street, city, state, whereas Name can compose of First Name, Last Name
