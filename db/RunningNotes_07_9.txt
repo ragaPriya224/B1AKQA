@@ -89,4 +89,6 @@ ddl, dml, dcl, tcl
 
 ----------------
 
+constraints:
 
+primary key, foreign key, unique, check, null, default 
