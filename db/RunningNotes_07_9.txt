@@ -1,3 +1,11 @@
+data?
+db?
+y db over traditional approach?
+dbms?
+types dbms? eg for each
+rdbms? eg:
+
+
 db, dbms, types,  ex, rdbms 
 keys -> pkey, foreign key 
 foreign key ->
