@@ -80,6 +80,13 @@ UML diagram
 
 
 --------------------------
+normalization 
 https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0
+
+--------------------------
+command categories:
+ddl, dml, dcl, tcl 
+
+----------------
 
 
