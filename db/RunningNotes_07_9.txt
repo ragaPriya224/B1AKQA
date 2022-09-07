@@ -4,3 +4,4 @@ foreign key ->
    delete child first, and then  parent 
    
    on delete cascade 
+https://www.youtube.com/watch?v=JkwbhFUftSc
