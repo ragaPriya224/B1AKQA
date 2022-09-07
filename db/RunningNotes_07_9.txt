@@ -73,3 +73,9 @@ many to many
 
 ER diagram  -> rep/ symbol for each -> like pkey, table, columns, multivalued, weak, etc 
 UML diagram 
+
+
+--------------------------
+https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0
+
+
