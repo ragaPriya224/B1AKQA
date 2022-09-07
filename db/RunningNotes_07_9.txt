@@ -4,6 +4,9 @@ y db over traditional approach?
 dbms?
 types dbms? eg for each
 rdbms? eg:
+keys? types?
+entities? types:?Strong/Regular Entity , weakentity 
+
 
 
 db, dbms, types,  ex, rdbms 
