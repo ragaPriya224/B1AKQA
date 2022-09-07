@@ -10,7 +10,10 @@ ATTRIBUTES? TYPES?single , multivalue
 relationships 
 er diagrams, uml diagrams 
 normalization 
-
+command categories:
+constraints
+ddl -> create, alter, drop , truncate
+dml -> select, insert, update, delete 
 
 
 db, dbms, types,  ex, rdbms 
