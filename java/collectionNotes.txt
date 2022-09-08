@@ -232,3 +232,20 @@ dup        no 		    	   no
 insorder   no                      yes preserved 
 DS         hashtable               hashtable +linkedList
 ---------------------------------------------------------
+
+
+sortedSET
+
+
+sorted set
+child interface of set
+represent group of individual according to some sorting order 
+duplicate -> no
+
+method specific:
+
+first()
+last()
+headSet()
+tailSet()
+subset()
