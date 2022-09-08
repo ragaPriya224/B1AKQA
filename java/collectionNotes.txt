@@ -76,3 +76,6 @@ Set(I)
 |
 hASHSET, ...
 
+            List          set
+duplicate    yes          no
+ins order    yes          no
