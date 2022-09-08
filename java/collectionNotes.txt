@@ -36,3 +36,22 @@ COLLECTIONS ?  -> REPRESENTS A GROUP OF ENTITIES eg: STUDENT GROUP, ETC
 // grocery shop -> duplicate items
 // hotel -> burger & coke 
 // hotel -> menu card-> price and food item
+
+
+1. Collection(I)
+
+ super Interface / Root interface
+-> defines most common methods used for any collection object
+-> there is no concrete class that implements collection interface
+
+(Concrete class -> In other words, it's a full implementation of its blueprint.
+As such, it has no unimplemented method)
+https://www.baeldung.com/java-concrete-class
+
+2.List(I)
+// grocery shop -> duplicate items
+// hotel -> masala dosa & coffee
+
+when you want the insertion order to be maintained, and it must allow duplicate elements means, 
+then we should go for list interface
+
