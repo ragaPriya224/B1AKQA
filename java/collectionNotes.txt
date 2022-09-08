@@ -249,3 +249,16 @@ last()
 headSet()
 tailSet()
 subset()
+
+
+--------------------------------------
+Treeset
+
+ds: balanced tree
+dup no
+ins order no
+sorting order ok
+heterogenous no 
+null is possible, only once 
+
+4 constructor
