@@ -79,3 +79,26 @@ hASHSET, ...
             List          set
 duplicate    yes          no
 ins order    yes          no
+
+---------------------------
+4. sortedSet(I)
+
+Collection(I)
+|
+Set(I)
+|
+SortedSet(I)
+|
+NavigableSet(I)
+|
+TreeSet(Implementation class)
+
+* duplicate not allowed
+*insert according to sorting order
+------------------------------------------------
+--------------------------
+5.  navigableSet(I)
+
+* it is a child of sorted set
+* several methods for that navigation purpose
+* implementation class of navigable set is treeset
