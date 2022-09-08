@@ -63,10 +63,16 @@ ARRAYLIST   LINKEDLIST   VECTOR STACK(LEGACY CLASSES )
 
 
 
-3. SET 
 3. Set(I)
 
 // dress shop -> unique items
 IF we want to represent group of individual objects as single entity where 
 *  it won't allow duplicate elements 
 * insertion order won't be maintained 
+
+COLLECTION(I)
+|
+Set(I)
+|
+hASHSET, ...
+
