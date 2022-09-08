@@ -184,3 +184,6 @@ ins ok
 heterogenous data
 null ins ok
 DS: doub le linked list
+
+
+DS: doub le linked list
