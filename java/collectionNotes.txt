@@ -102,3 +102,17 @@ TreeSet(Implementation class)
 * it is a child of sorted set
 * several methods for that navigation purpose
 * implementation class of navigable set is treeset
+
+---------------------------
+6. : QUEUE(I)
+
+represent group of individual objects prior(before ) to processing, we can go for queue concept
+
+Collection(I)
+||
+
+QUEUE(I)
+
+
+
+PRIORITY QUEUE        BLOCKING QUEUE -> LINKED, PRIORITY 
