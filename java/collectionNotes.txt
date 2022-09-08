@@ -152,3 +152,6 @@ impl classs -> treemap
 
 navigation purposes
 child of sorted map
+
+
+----------------------IN DEPTHJ NOTES---------------------
