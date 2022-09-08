@@ -55,3 +55,9 @@ https://www.baeldung.com/java-concrete-class
 when you want the insertion order to be maintained, and it must allow duplicate elements means, 
 then we should go for list interface
 
+COLLECTION(I)
+|
+List(I)
+|
+ARRAYLIST   LINKEDLIST   VECTOR STACK 
+
