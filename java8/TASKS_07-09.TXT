@@ -13,3 +13,21 @@ and try to do the following operations:
 2. TAKE A MAP THAT CONTAINS THE FOOD ID AND FOODNAME, 
 HAVE SOME DUMMY DATAS AND 
 1. TRY TO USE PUTIFABSENT METHOD 
+
+-----------------------evening assessment ------------------------
+
+1.Given a list of integers, find the total number of elements present in the list using Stream functions?
+
+2.Given the list of integers, find the first element of the list using Stream functions?
+3.convert the below data to uppercase and print each data
+ List<String> names = Arrays.asList("aa", "bb", "cc", "dd"); 
+HINT-> USE MAP,  METHOD REFERENCES TOO 
+
+4. CREATE A FUNCTIONAL INTERFACE WITH a  default method and a static method 
+
+
+5. try to do two intermediate operation in A SINGLE STREAM	
+
+6. have your own data, try using allmatch, anymatch, nomatch
+
+7. try adding a data in map, only if that key is not present before. 

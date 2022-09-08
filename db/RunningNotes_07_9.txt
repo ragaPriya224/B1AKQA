@@ -1,0 +1,97 @@
+data?
+db?
+y db over traditional approach?
+dbms?
+types dbms? eg for each
+rdbms? eg:
+keys? types?
+entities? types:?Strong/Regular Entity , weakentity 
+ATTRIBUTES? TYPES?single , multivalue 
+relationships 
+er diagrams, uml diagrams 
+normalization 
+command categories:
+constraints
+ddl -> create, alter, drop , truncate
+dml -> select, insert, update, delete 
+
+
+db, dbms, types,  ex, rdbms 
+keys -> pkey, foreign key 
+foreign key ->
+   delete child first, and then  parent 
+   
+   on delete cascade 
+https://www.youtube.com/watch?v=JkwbhFUftSc
+
+
+super set of candidate key i.e., Candidate key + non key attribute
+
+
+Entities 
+▪Entities are specific objects or things that are represented in the database.Example: The Student , the Book
+
+types: 
+
+Types of Entities
+
+Strong/Regular Entity
+
+▪It can exist independently of other types of entities▪
+It has its own unique identifierExample: The Student Entity can exist independent of any other entitles
+
+Weak Entity
+▪It is dependent on a strong entity (identifying owner)...cannot exist on its own
+▪It does not have a unique identifier (only a partial identifier)Example:Nominee Entity cannot exist independent of Policy-Holder Entity
+
+
+Types of attributes
+•Simple Vs Composite
+•Single valued Vs Multi-valued
+•Simple attribute
+-----------------
+eAn attribute, which cannot be sub-divided further components Example: Age,  Sex.
+These attributes cannot be divided into subcomponents 
+
+•Composite attribute
+---------------------
+Attribute may be composed of several components
+Example: Address, Name.  
+Address attributes can be composted of door no., street, city, state, whereas Name can compose of First Name, Last Name
+
+
+Types of attributes        
+
+Single valued attribute
+An attribute, which has only single atomic valuesExample: Age,  DOB, Sex. These attribute values are single and atomic•
+Multi-valued attribute
+An Attribute may have multiple valuesExample: Attribute Degree can have values ‘B.Tech’  and ‘M.Tech’, attribute hobby can have values ‘playing cricket’ and ‘watching cricket’
+
+
+---------------------------------
+mapping
+
+one to one
+one to many 
+many to many 
+
+
+----------------------
+
+ER diagram  -> rep/ symbol for each -> like pkey, table, columns, multivalued, weak, etc 
+UML diagram 
+
+
+--------------------------
+normalization 
+https://www.youtube.com/watch?v=K7vzLrGCV50&list=PLQ9AAKW8HuJ5m0rmHKL88ZyjOIKejvrj0
+
+--------------------------
+command categories:
+ddl, dml, dcl, tcl 
+
+----------------
+
+constraints:
+
+primary key, foreign key, unique, check, null, default 
