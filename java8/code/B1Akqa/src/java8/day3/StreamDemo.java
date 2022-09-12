@@ -39,8 +39,12 @@ public class StreamDemo {
 //		List<Integer> markList = dataList.stream().sorted().collect(Collectors.toList());
 //		System.out.println(markList);
 		
+		List<String> sampleDataList = Arrays.asList("Gurgaon" , "", "NewDelhi" ,"berlin", "Mumbai","tokyo","berlin","barcelona","bombay");
+	
+		
+	
 
-
+	System.out.println(	sampleDataList.size());
 	}
 
 }
