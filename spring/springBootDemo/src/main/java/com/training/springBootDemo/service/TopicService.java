@@ -1,5 +1,6 @@
 package com.training.springBootDemo.service;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -10,8 +11,8 @@ import com.training.springBootDemo.model.Topic;
 @Service
 public class TopicService {
 	
-	public List<Topic>topicList =Arrays.asList(new Topic("1","java"),
-			new Topic("5","spidy"),new Topic("10","avengers"));
+	public List<Topic>topicList =new ArrayList(Arrays.asList(new Topic("1","java"),
+			new Topic("5","spidy"),new Topic("10","avengers")));
 	
 	public List<Topic> getAllTopic(){
 		return topicList;
@@ -20,6 +21,11 @@ public class TopicService {
 	public Topic getTopic(String id) {
 		// TODO Auto-generated method stub
 		return topicList.stream().filter(data -> data.getId().equals(id)).findFirst().get();
+	}
+
+	public void addTopic(Topic topic) {
+		
+		topicList.add(topic);
 	}
 	
 
