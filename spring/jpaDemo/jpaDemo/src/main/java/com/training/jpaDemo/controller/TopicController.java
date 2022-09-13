@@ -13,6 +13,7 @@ import com.training.jpaDemo.model.Topic;
 import com.training.jpaDemo.service.TopicService;
 
 @RestController
+@RequestMapping("/api")
 public class TopicController {
 	
 	

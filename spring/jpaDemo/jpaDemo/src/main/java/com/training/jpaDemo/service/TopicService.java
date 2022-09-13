@@ -51,6 +51,7 @@ public class TopicService {
 	public void delete(String id) {
 		//		topicList.removeIf(data -> data.getId().equals(id));
 		topicRepository.deleteById(id);
+//		topicRepository.
 	}
 
 }
