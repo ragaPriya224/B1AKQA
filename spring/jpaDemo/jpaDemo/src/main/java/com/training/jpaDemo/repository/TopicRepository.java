@@ -10,4 +10,6 @@ import com.training.jpaDemo.model.Topic;
 public interface TopicRepository extends CrudRepository<Topic, String>{
 	
 //can extend CRUD or JPA repository too.. For simplicity, used CRUD repo here. 
+	//CRUD repository has logic for all common methods
+	//if u need, u can create specific custom methods too 
 }
