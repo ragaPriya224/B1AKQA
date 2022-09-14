@@ -1,0 +1,5 @@
+mvn -version
+    1. download zip file
+    2. paste it folder..unzip it 
+    3. edit system variable -> set in path as well as set MAVEN_HOME
+    4. mvn -version execute 
